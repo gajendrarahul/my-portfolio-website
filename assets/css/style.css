@@ -90,7 +90,7 @@ a:hover {
   background-size: cover;
   background-position: center center;
 }
-@media (max-width: 1024px) {
+@media (max-width: 360px) {
   .bg-image {
     background-attachment: scroll;
   }
@@ -201,7 +201,7 @@ a:hover {
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
-@media (min-width: 768px) {
+@media (min-width: 360px) {
   .box-shadow-full {
     padding: 3rem;
   }
